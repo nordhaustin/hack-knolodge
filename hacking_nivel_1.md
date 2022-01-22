@@ -7,6 +7,8 @@ palabras en el titulo - intittle:
 some dorks :
 
 
+s
+
 inurl:”id=” & intext:”Warning: mysql_fetch_assoc()"
 inurl:”id=” & intext:”Warning: mysql_fetch_array()"
 inurl:”id=” & intext:”Warning: mysql_num_rows()"
